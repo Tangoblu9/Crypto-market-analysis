@@ -1,5 +1,11 @@
 # Crypto-market-analysis
-Crypto currency analysis is evaluating risk and performance of the top 5 crypto currencies based on market cap: Bitcoin, Ethereum, Ripple, Cardano and Solana.
-Data comes directly from Yahoo Finance website.
-Analysis is focused on crypto currencies price and volatily performance over the years, risk measured by std.
-Moreover, analysis provides information about correlations between different crypto currencies. 
+Cryptocurrency analysis is evaluating the risk and performance of the top 5 cryptocurrencies based on market cap: Bitcoin, Ethereum, Ripple, Cardano, and Solana.
+
+Data comes directly from Yahoo Finance website. Selected period is June-20 to June-22 (2 years data), but it can be easily adjusted to any time period you want!
+
+The analysis is focused on cryptocurrencies' price and volatility performance over the years, the risk is measured by std.
+Moreover, the analysis provides information about correlations between different cryptocurrencies and it's total returns. 
+
+Enjoy!
+
+
